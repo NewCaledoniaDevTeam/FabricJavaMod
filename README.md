@@ -126,6 +126,7 @@ This is an example of how to list things you need to use the software and how to
    ```sh
    ./gradlew genSources
    ```
+
 If you need any help please visit the [Fabric Setup Wiki](https://fabricmc.net/wiki/tutorial:setup).
 
 
@@ -144,7 +145,6 @@ _For more examples, please refer to the [Documentation](https://fabricmc.net/wik
 
 See the [open issues](https://github.com/NewCaledoniaDevTeam/FabricJavaMod) for a list of proposed features (and known issues).
 
-
 <!-- CONTRIBUTING -->
 ## Contributing
 
@@ -156,18 +156,16 @@ Contributions are what make the open source community such an amazing place to b
 4. Push to the Branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
 
-
-
 <!-- LICENSE -->
 ## License
 
 Distributed under the MIT License. See [`LICENSE`](LICENSE) for more information.
 
-
 <!-- CONTACT -->
 ## Contact
 
 Project Link: [https://github.com/NewCaledoniaDevTeam/FabricJavaMod](https://github.com/NewCaledoniaDevTeam/FabricJavaMod)
+
 Project Website: [https://newcaledoniadevteam.github.io/FabricJavaMod/](https://newcaledoniadevteam.github.io/FabricJavaMod/)
 
 
