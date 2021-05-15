@@ -21,7 +21,7 @@
 *** https://www.markdownguide.org/basic-syntax/#reference-style-links
 -->
 
- <div align="center" style="display: block; margin-left: auto; margin-right: auto;">
+ <!--<div align="center" style="display: block; margin-left: auto; margin-right: auto;">-->
   
 [![Contributors][contributors-shield]][contributors-url]
 [![Forks][forks-shield]][forks-url]
@@ -29,7 +29,7 @@
 [![Issues][issues-shield]][issues-url]
 [![MIT License][license-shield]][license-url]
 
-</div>
+<!--</div>-->
 
 
 
