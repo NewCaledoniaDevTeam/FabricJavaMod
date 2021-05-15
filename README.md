@@ -24,17 +24,26 @@
  <div align="center" style="display: block; margin-left: auto; margin-right: auto;">
   
   <a href="https://github.com/NewCaledoniaDevTeam/FabricJavaMod/graphs/contributors">
-    <img src="https://img.shields.io/github/contributors/NewCaledoniaDevTeam/FabricJavaMod.svg?style=for-the-badge" alt="Logo" width="153.5" height="28">
+    <img src="https://img.shields.io/github/contributors/NewCaledoniaDevTeam/FabricJavaMod.svg?style=for-the-badge" alt="Contributors" width="153.5" height="28">
   </a>
-  <a href="https://github.com/NewCaledoniaDevTeam/FabricJavaMod/graphs/contributors">
-    <img src="https://img.shields.io/github/contributors/NewCaledoniaDevTeam/FabricJavaMod.svg?style=for-the-badge" alt="Logo" width="153.5" height="28">
+  <a href="https://github.com/NewCaledoniaDevTeam/FabricJavaMod/network/members">
+    <img src="https://img.shields.io/github/forks/NewCaledoniaDevTeam/FabricJavaMod.svg?style=for-the-badge" alt="Forks" width="153.5" height="28">
+  </a>
+  <a href="https://github.com/NewCaledoniaDevTeam/FabricJavaMod/stargazers">
+    <img src="https://img.shields.io/github/stars/NewCaledoniaDevTeam/FabricJavaMod.svg?style=for-the-badge" alt="Stargazers" width="153.5" height="28">
+  </a>
+  <a href="https://github.com/NewCaledoniaDevTeam/FabricJavaMod/issues">
+    <img src="https://img.shields.io/github/issues/NewCaledoniaDevTeam/FabricJavaMod.svg?style=for-the-badge" alt="Issues" width="153.5" height="28">
+  </a>
+  <a href="https://github.com/NewCaledoniaDevTeam/FabricJavaMod/blob/master/LICENSE">
+    <img src="https://img.shields.io/github/license/NewCaledoniaDevTeam/FabricJavaMod.svg?style=for-the-badge" alt="MIT License" width="153.5" height="28">
   </a>
   
 <!--[![Contributors][contributors-shield]][contributors-url]-->
-[![Forks][forks-shield]][forks-url]
-[![Stargazers][stars-shield]][stars-url]
-[![Issues][issues-shield]][issues-url]
-[![MIT License][license-shield]][license-url]
+<!--[![Forks][forks-shield]][forks-url]-->
+<!--[![Stargazers][stars-shield]][stars-url]-->
+<!--[![Issues][issues-shield]][issues-url]-->
+<!--[![MIT License][license-shield]][license-url]-->
 
 </div>
 
@@ -206,4 +215,4 @@ Project Website: [https://newcaledoniadevteam.github.io/FabricJavaMod/](https://
 [issues-shield]: https://img.shields.io/github/issues/NewCaledoniaDevTeam/FabricJavaMod.svg?style=for-the-badge
 [issues-url]: https://github.com/NewCaledoniaDevTeam/FabricJavaMod/issues
 [license-shield]: https://img.shields.io/github/license/NewCaledoniaDevTeam/FabricJavaMod.svg?style=for-the-badge
-[license-url]: https://github.com/NewCaledoniaDevTeam/FabricJavaMod/blob/master/LICENSE.txt
+[license-url]: https://github.com/NewCaledoniaDevTeam/FabricJavaMod/blob/master/LICENSE
