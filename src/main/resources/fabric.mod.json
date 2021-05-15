@@ -1,0 +1,37 @@
+{
+    "schemaVersion": 1,
+    "id": "nc",
+    "version": "${version}",
+
+    "name": "New Caledonia",
+    "description": "This is an example description! Tell everyone what your mod is about!",
+    "authors": [
+        "Mountain Top"
+    ],
+    "contact": {
+        "homepage": "https://mountaintopofficial.ml/",
+        "sources": "https://github.com/NewCaledoniaDevTeam/"
+    },
+
+    "license": "MIT",
+    "icon": "assets/nc/icon.png",
+
+    "environment": "*",
+    "entrypoints": {
+        "main": [
+            "mountain.top.nc.mod"
+        ]
+    },
+    "mixins": [
+        "nc.mixins.json"
+    ],
+
+    "depends": {
+        "fabricloader": ">=0.7.4",
+        "fabric": "*",
+        "minecraft": "1.16.x"
+    },
+    "suggests": {
+        "another-mod": "*"
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [{
+            "item": "nc:darzodian_credit"
+        },
+        {
+            "item": "nc:darzodian_credit"
+        }
+    ],
+    "result": {
+        "item": "nc:galactic_credit",
+        "count": 1
+    }
+}

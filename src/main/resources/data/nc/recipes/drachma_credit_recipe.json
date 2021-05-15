@@ -1,0 +1,20 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [{
+            "item": "nc:galactic_credit"
+        },
+        {
+            "item": "nc:galactic_credit"
+        },
+        {
+            "item": "nc:galactic_credit"
+        },
+        {
+            "item": "nc:galactic_credit"
+        }
+    ],
+    "result": {
+        "item": "nc:drachma",
+        "count": 1
+    }
+}
