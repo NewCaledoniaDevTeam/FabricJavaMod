@@ -27,16 +27,16 @@
     <img src="https://img.shields.io/github/contributors/NewCaledoniaDevTeam/FabricJavaMod.svg?style=for-the-badge" alt="Contributors" width="153.5" height="28">
   </a>
   <a href="https://github.com/NewCaledoniaDevTeam/FabricJavaMod/network/members">
-    <img src="https://img.shields.io/github/forks/NewCaledoniaDevTeam/FabricJavaMod.svg?style=for-the-badge" alt="Forks" width="153.5" height="28">
+    <img src="https://img.shields.io/github/forks/NewCaledoniaDevTeam/FabricJavaMod.svg?style=for-the-badge" alt="Forks" width="93.5" height="28">
   </a>
   <a href="https://github.com/NewCaledoniaDevTeam/FabricJavaMod/stargazers">
-    <img src="https://img.shields.io/github/stars/NewCaledoniaDevTeam/FabricJavaMod.svg?style=for-the-badge" alt="Stargazers" width="153.5" height="28">
+    <img src="https://img.shields.io/github/stars/NewCaledoniaDevTeam/FabricJavaMod.svg?style=for-the-badge" alt="Stargazers" width="91.5" height="28">
   </a>
   <a href="https://github.com/NewCaledoniaDevTeam/FabricJavaMod/issues">
-    <img src="https://img.shields.io/github/issues/NewCaledoniaDevTeam/FabricJavaMod.svg?style=for-the-badge" alt="Issues" width="153.5" height="28">
+    <img src="https://img.shields.io/github/issues/NewCaledoniaDevTeam/FabricJavaMod.svg?style=for-the-badge" alt="Issues" width="141" height="28">
   </a>
   <a href="https://github.com/NewCaledoniaDevTeam/FabricJavaMod/blob/master/LICENSE">
-    <img src="https://img.shields.io/github/license/NewCaledoniaDevTeam/FabricJavaMod.svg?style=for-the-badge" alt="MIT License" width="153.5" height="28">
+    <img src="https://img.shields.io/github/license/NewCaledoniaDevTeam/FabricJavaMod.svg?style=for-the-badge" alt="MIT License" width="122.5" height="28">
   </a>
   
 <!--[![Contributors][contributors-shield]][contributors-url]-->
