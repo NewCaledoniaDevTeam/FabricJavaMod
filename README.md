@@ -21,7 +21,7 @@
 *** https://www.markdownguide.org/basic-syntax/#reference-style-links
 -->
 
- <!--<div align="center" style="display: block; margin-left: auto; margin-right: auto;">-->
+ <div align="center" style="display: block; margin-left: auto; margin-right: auto;">
   
 [![Contributors][contributors-shield]][contributors-url]
 [![Forks][forks-shield]][forks-url]
@@ -29,7 +29,7 @@
 [![Issues][issues-shield]][issues-url]
 [![MIT License][license-shield]][license-url]
 
-<!--</div>-->
+</div>
 
 
 
@@ -37,7 +37,7 @@
 <br/>
 <p align="center">
   <a href="https://github.com/NewCaledoniaDevTeam/FabricJavaMod">
-    <img src="https://avatars.githubusercontent.com/u/72218389?s=400&u=fdb3b7e678d89c6729c89d12e0b4956c1a277363&v=4" alt="Logo" width="120" height="120">
+    <img src="https://newcaledoniadevteam.github.io/images/hero-img.png" alt="Logo" width="120" height="120">
   </a>
 
   <h3 align="center">New Caledonia Fabric Mod</h3>
