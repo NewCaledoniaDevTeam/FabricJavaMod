@@ -21,9 +21,9 @@
 *** https://www.markdownguide.org/basic-syntax/#reference-style-links
 -->
 
-<div align="center" style="display: block; margin-left: auto; margin-right: auto;">
+ <div align="center" style="display: block; margin-left: auto; margin-right: auto;">
   
-[![Contributors](https://img.shields.io/github/contributors/NewCaledoniaDevTeam/FabricJavaMod.svg?style=for-the-badge)](https://github.com/NewCaledoniaDevTeam/FabricJavaMod/graphs/contributors)
+[![Contributors][contributors-shield]][contributors-url]
 [![Forks][forks-shield]][forks-url]
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
@@ -129,6 +129,16 @@ This is an example of how to list things you need to use the software and how to
 2. Install gradle sources
    ```sh
    ./gradlew genSources
+   ```
+3. Setup IDE
+   ```sh
+   ./gradlew eclipse
+   ./gradlew vscode
+   ```
+4. Building and Testing
+   ```sh
+   ./gradlew build
+   ./gradlew runClient
    ```
 
 If you need any help please visit the [Fabric Setup Wiki](https://fabricmc.net/wiki/tutorial:setup).
