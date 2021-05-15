@@ -40,6 +40,7 @@
   </a>
   <a href="https://github.com/NewCaledoniaDevTeam/FabricJavaMod/blob/master/LICENSE">
     <img src="https://img.shields.io/github/license/NewCaledoniaDevTeam/CompressedCobblestone.svg?style=for-the-badge&color=yellow" alt="MIT License" width="122.5" height="28">
+ </a>
   
 <!--[![Contributors][contributors-shield]][contributors-url]-->
 <!--[![Forks][forks-shield]][forks-url]-->
