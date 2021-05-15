@@ -21,9 +21,16 @@
 *** https://www.markdownguide.org/basic-syntax/#reference-style-links
 -->
 
- <div align="center">
+ <div align="center" style="display: block; margin-left: auto; margin-right: auto;">
   
-[![Contributors][contributors-shield]][contributors-url]
+  <a href="https://github.com/NewCaledoniaDevTeam/FabricJavaMod/graphs/contributors">
+    <img src="https://img.shields.io/github/contributors/NewCaledoniaDevTeam/FabricJavaMod.svg?style=for-the-badge" alt="Logo" width="153.5" height="28">
+  </a>
+  <a href="https://github.com/NewCaledoniaDevTeam/FabricJavaMod/graphs/contributors">
+    <img src="https://img.shields.io/github/contributors/NewCaledoniaDevTeam/FabricJavaMod.svg?style=for-the-badge" alt="Logo" width="153.5" height="28">
+  </a>
+  
+<!--[![Contributors][contributors-shield]][contributors-url]-->
 [![Forks][forks-shield]][forks-url]
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
