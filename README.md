@@ -23,7 +23,7 @@
 
 <div align="center" style="display: block; margin-left: auto; margin-right: auto;">
   
-[![Contributors][contributors-shield]][contributors-url]
+[![Contributors](https://img.shields.io/github/contributors/NewCaledoniaDevTeam/FabricJavaMod.svg?style=for-the-badge)](https://github.com/NewCaledoniaDevTeam/FabricJavaMod/graphs/contributors)
 [![Forks][forks-shield]][forks-url]
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
