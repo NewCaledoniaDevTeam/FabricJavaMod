@@ -168,6 +168,7 @@ Distributed under the MIT License. See [`LICENSE`](LICENSE) for more information
 ## Contact
 
 Project Link: [https://github.com/NewCaledoniaDevTeam/FabricJavaMod](https://github.com/NewCaledoniaDevTeam/FabricJavaMod)
+Project Website: [https://newcaledoniadevteam.github.io/FabricJavaMod/](https://newcaledoniadevteam.github.io/FabricJavaMod/)
 
 
 
