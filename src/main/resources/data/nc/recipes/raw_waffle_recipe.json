@@ -1,0 +1,23 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "WWW",
+        "MSM",
+        "WWW"
+    ],
+    "key": {
+        "W": {
+            "item": "minecraft:wheat"
+        },
+        "M": {
+            "item": "minecraft:milk_bucket"
+        },
+        "S": {
+            "item": "minecraft:sugar"
+        }
+    },
+    "result": {
+        "item": "nc:raw_waffle",
+        "count": 1
+    }
+}

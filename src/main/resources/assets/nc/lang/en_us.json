@@ -1,5 +1,9 @@
 {
     "item.nc.galactic_credit": "Credit",
     "item.nc.darzodian_credit": "Darzodian Credit",
-    "item.nc.drachma": "Drachma"
+    "item.nc.drachma": "Drachma",
+    "item.nc.apple_pie": "Apple Pie",
+    "item.nc.chocolate_milk": "Chocolate Milk",
+    "item.nc.coke": "Coke",
+    "item.nc.raw_waffle": "Raw Waffle"
 }
