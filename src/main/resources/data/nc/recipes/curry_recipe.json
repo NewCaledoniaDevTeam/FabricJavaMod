@@ -1,0 +1,23 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [{
+            "item": "nc:curry_powder"
+        },
+        {
+            "item": "minecraft:water_bucket"
+        },
+        {
+            "item": "nc:curry_powder"
+        },
+        {
+            "item": "minecraft:cooked_chicken"
+        },
+        {
+            "item": "minecraft:bowl"
+        }
+    ],
+    "result": {
+        "item": "nc:curry",
+        "count": 1
+    }
+}

@@ -1,0 +1,9 @@
+{
+    "type": "minecraft:smelting",
+    "ingredient": {
+        "item": "nc:chocolate_milk"
+    },
+    "result": "nc:hot_chocolate",
+    "experience": 0.1,
+    "cookingtime": 200
+}

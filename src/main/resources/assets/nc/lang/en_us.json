@@ -1,9 +1,18 @@
 {
     "item.nc.galactic_credit": "Credit",
+    "item.nc.galactic_credit.tooltip": "National Currency",
     "item.nc.darzodian_credit": "Darzodian Credit",
+    "item.nc.darzodian_credit.tooltip": "Shrewsbuquerque's Currency",
     "item.nc.drachma": "Drachma",
+    "item.nc.drachma.tooltip": "Eternalia's Currency",
     "item.nc.apple_pie": "Apple Pie",
     "item.nc.chocolate_milk": "Chocolate Milk",
+    "item.nc.chocolate_milk.tooltip": "Yummy",
+    "item.nc.hot_chocolate": "Hot Chocolate",
     "item.nc.coke": "Coke",
-    "item.nc.raw_waffle": "Raw Waffle"
+    "item.nc.raw_waffle": "Raw Waffle",
+    "item.nc.raw_waffle.tooltip": "salmonella",
+    "item.nc.waffle": "Waffle",
+    "item.nc.curry_powder": "Curry Powder",
+    "item.nc.curry": "Curry"
 }
